@@ -23,3 +23,8 @@ pytest -q
 ```
 
 Replace `dm4405770-gif/freshcart-api` in the CI badge URL with your GitHub username and repository name.
+
+## API endpoints
+
+- `GET /` — Returns a welcome message.
+- `GET /health` — Returns the API health status.
