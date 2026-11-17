@@ -2,7 +2,7 @@
 
 A small Flask API starter for the FreshCart project.
 
-[![CI](https://github.com/OWNER/REPOSITORY/actions/workflows/ci.yml/badge.svg)](https://github.com/OWNER/REPOSITORY/actions/workflows/ci.yml)
+[![CI](https://github.com/dm4405770-gif/freshcart-api/actions/workflows/ci.yml/badge.svg)](https://github.com/dm4405770-gif/freshcart-api/actions/workflows/ci.yml)
 
 ## Run locally
 
@@ -22,4 +22,4 @@ flake8 app.py tests
 pytest -q
 ```
 
-Replace `OWNER/REPOSITORY` in the CI badge URL with your GitHub username and repository name.
+Replace `dm4405770-gif/freshcart-api` in the CI badge URL with your GitHub username and repository name.
